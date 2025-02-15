@@ -1,6 +1,8 @@
 const min = Math.min(34,54,65,46,3,56,3,4,656,456,);
+// min
 console.log(min);
 const max = Math.max(34, 54, 65, 46, 3, 56, 3, 4, 656, 456);
+//max
 console.log(max);
 
 //pai er value
@@ -25,6 +27,9 @@ console.log(Math.random())
 
 //you need INTEGER number yes possible you get it random 
 
+//Interestingly Uses lottery
+
 console.log(Math.random()*10)
 const rand = Math.round(Math.random()*10)
 console.log(rand)
+
