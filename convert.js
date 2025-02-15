@@ -33,3 +33,4 @@ function kilometersToMiles(kilo) {
   return result;
 }
 console.log(kilometersToMiles(10));
+

@@ -33,3 +33,7 @@ console.log(Math.random()*10)
 const rand = Math.round(Math.random()*10)
 console.log(rand)
 
+//power 
+
+console.log(Math.pow(2, 3));
+
